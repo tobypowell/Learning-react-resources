@@ -27,3 +27,8 @@ Great 10 hour long full course on the fundementals of React, with projects. 5/5
 Runs along side the of the full react course by the same author. 9 hours of building react apps! 5/5  
 [15 react projects - full course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
 
+### youtube
+#### React crash course 2021 - Brad Traversy
+**Cost: free**  
+Great project based intro into React. Brad excellent as usual.  
+[React crash course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=PLg6wlzAYw7LTfSNSH3SyLW6t6NGfYQaLx&index=5&t=4956s)
